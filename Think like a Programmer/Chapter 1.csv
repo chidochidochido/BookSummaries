@@ -1,0 +1,15 @@
+"Problems include {{c1::constraints::limitations}}, which are unbreakable rules about the problem or how it must be solved."
+"For programmers, problem solving is defined as writing an original program that performs specific tasks and meets all stated {{c1::constraints}}."
+A program that appears to produce correct results but breaks one or more stated rules is called a {{c1::Kobayashi Maru}}.
+An {{c1::analogy}} is an exploitable similarity between a solved problem and an unsolved problem.
+"If a problem solver is unaware of all possible {{c1::operations::actions/moves}}, they may be unable to find a solution."
+Gaining new insight into a puzzle can often be achieved by {{c1::restating::rephrasing}} the problem in a more formal manner.
+"When a complete solution path is unclear, it is better to develop a {{c1::strategy}} than to attack the problem through random trial and error."
+"When faced with an onerous issue, experimenting with a {{c1::reduced::smaller/simplified}} version of the problem can produce valuable insights."
+"To make the most immediate progress on a complex task, you should start by evaluating the {{c1::most constrained}} part of the problem."
+"The most important general rule of problem solving is that you must always have a {{c1::plan}}, rather than engaging in directionless activity."
+You can often lower the difficulty of a task by an order of magnitude by finding a way to {{c1::divide}} the problem into separate steps or phases.
+"When programming, you can build confidence and momentum by starting with what you {{c1::already know}} how to do and working outward."
+You can narrow the scope of an unsolvable situation by adding or removing {{c1::constraints::rules}} to produce a problem you do know how to solve.
+"Unlike random guessing, an {{c1::experiment}} is a controlled process where you test a hypothesis and observe the results."
+"Because a programmer's anger is internal rather than an external stimulus, avoiding {{c1::frustration}} is a conscious decision you must make."
